@@ -66,7 +66,7 @@ Design and deploy a secure and isolated AWS network architecture following best 
 
 ## Network Diagram
 
-<img width="1052" height="617" alt="image" src="https://github.com/user-attachments/assets/3b2766ab-6cf7-4979-8e09-79157f88e46c" />
+<img width="1052" height="617" alt="image" src="https://github.com/user-attachments/assets/f71de0d6-8f4c-48bd-945a-e9538b54306c" />
 
 
 ---
