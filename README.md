@@ -255,7 +255,9 @@ The environment now provides **real-time detection, alerting, and visibility** f
 - Integrate **AWS Security Hub** to centralize all security findings  
 - Add **AWS Config** for continuous compliance evaluation  
 - Enable **AWS Systems Manager** for keyless access and patch management  
-- Extend **GuardDuty Runtime Monitoring** to EC2 instances  
+- Extend **GuardDuty Runtime Monitoring** to EC2 instances
+- Implement **Network ACLs (NACLs)** to reinforce subnet-level protection alongside Security Groups
+- Deploy a **private RDS database** accessible only from the Backend instance 
 - Correlate security events with **CloudWatch dashboards**
 
 ---
